@@ -12,12 +12,13 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 * 🤖 Machine Learning & Predictive Modeling
 * 🌐 Interactive Data Apps using Streamlit
 * 🔧 Real‑world problem solving with data & automation
+* 🌐 Building websites for the own business  
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Python
+* **Languages:** Python, HTML, Css, Javascript
 * **Libraries:** Pandas, NumPy, scikit‑learn
 * **Visualization:** Matplotlib, Seaborn
 * **Tools:** Streamlit, Power BI, GitHub
@@ -40,6 +41,7 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 * Advanced Machine Learning techniques
 * Model optimization & evaluation
 * Data storytelling & dashboard design
+* web development 
 
 ---
 
